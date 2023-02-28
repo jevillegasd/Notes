@@ -30,3 +30,8 @@ conda develop "C:\Program Files\Lumerical\v231\api\python"
 
 
 ## Using your environment
+Using visual studio code you can use the environments created in conda. First install the Python Extension, then from the command pallette (Ctrl + Shift + P), run  
+```
+Python: Select Interpreter
+```
+And select the enviornment we have just created.
