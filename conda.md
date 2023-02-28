@@ -35,3 +35,6 @@ Using visual studio code you can use the environments created in conda. First in
 Python: Select Interpreter
 ```
 And select the enviornment we have just created.
+
+### Secret tip
+You may chose to not configure an environment at all. This will need that you use the python distribution packaged with lumerical which normally is enough, but may limit your ability to use different releases of other libraries, or importing new ones. For this simply when choosing your python interporeter in Visual Code, select the python folder shipped with Lumerical ("C:\Program Files\Lumerical\v231\api\python")
